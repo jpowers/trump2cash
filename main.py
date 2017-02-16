@@ -1,11 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+import settings
 from analysis import Analysis
 from logs import Logs
 from trading import Trading
 from twitter import Twitter
-
 # Whether to send all logs to the cloud instead of a local file.
 LOGS_TO_CLOUD = True
 

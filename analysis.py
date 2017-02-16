@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import settings
 from google.cloud import language
 from re import compile
 from re import IGNORECASE
