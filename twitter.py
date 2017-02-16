@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import settings
 from os import getenv
 from simplejson import loads
 from Queue import Queue

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import settings
 from datetime import datetime
 from datetime import timedelta
 from lxml.etree import Element
